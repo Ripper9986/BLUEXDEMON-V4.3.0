@@ -1,6 +1,6 @@
 const version = require("@whiskeysockets/baileys/package.json").version
 //Input number for pair code
-global.pairingNumber = "2349036325074"
+global.pairingNumber = "2347073241411"
 
 global.botNumber = ["2349036325074"]
 global.domain = "https://.nobodysey.me"
